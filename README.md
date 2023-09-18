@@ -16,12 +16,12 @@ To install the SVG Logo Maker, follow these steps:
 3. Install dependencies: `npm install`
 
 ## Usage
-1. Run the SVG Logo Maker application: `node app.js`
+1. Run the SVG Logo Maker application: `node index`
 2. Follow the prompts to enter text, text color, shape, and shape color.
 3. The application will generate an SVG logo named `logo.svg` in the project directory.
 
 ## Credits
-This application was developed by [Your Name](https://github.com/your-github-username).
+This application was developed by [Keurid](https://github.com/keurid).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
